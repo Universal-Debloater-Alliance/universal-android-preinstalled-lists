@@ -8,7 +8,7 @@ Rationale:
 - "Pre-installed" because not everything is bloat
 - "Lists" in plural, because it'll be split in multiple files. And unordered-lists are a thing
 
-If you have suggestions for a better name, please let us know soon! It's better to rename now than later.
+If you have suggestions for a better name, please [let us know](https://github.com/Universal-Debloater-Alliance/universal-android-preinstalled-lists/discussions/1) soon! It's better to rename now than later.
 
 ## Why
 
