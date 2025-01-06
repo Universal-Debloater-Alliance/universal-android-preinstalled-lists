@@ -1,5 +1,11 @@
 # Universal Android Pre-Installed Lists
-The set of all known [built-in](https://en.wikipedia.org/wiki/Pre-installed_software) [Android](https://www.android.com/) packages. Will be used primarily by [UAD-NG](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation).
+The set of all known [built-in](https://en.wikipedia.org/wiki/Pre-installed_software) [Android](https://www.android.com/) packages, with:
+- descriptions
+- source/authors
+- removal recommendations
+- dependency declarations
+
+Will be used primarily by [UAD-NG](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation).
 
 ## Name
 Rationale:
